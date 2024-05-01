@@ -105,6 +105,10 @@ venv.bak/
 # data
 data/
 output_dir/
+output/
+weights/
+images/
+*.png
 
 # macos
 .DS_Store

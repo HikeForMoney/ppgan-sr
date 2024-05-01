@@ -1,4 +1,5 @@
-total_iters: 250000
+# total_iters: 250000
+total_iters: 25
 output_dir: output_dir
 find_unused_parameters: True
 # tensor range for function tensor2img

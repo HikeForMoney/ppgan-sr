@@ -1,4 +1,5 @@
 total_iters: 1000000
+# total_iters: 1000
 output_dir: output_dir
 # tensor range for function tensor2img
 min_max:
@@ -104,7 +105,7 @@ validate:
 
 log_config:
   interval: 10
-  visiual_interval: 500
+  visiual_interval: 1
 
 snapshot_config:
   interval: 5000
